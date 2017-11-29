@@ -1,0 +1,157 @@
+Starting passenger 0
+Starting passenger 1
+Starting passenger 2
+Starting passenger 5
+Starting passenger 3
+Starting passenger 4
+Starting passenger 6
+Starting passenger 8
+Starting passenger 7
+Starting passenger 9
+Starting elevator 0
+Opening elevator 0 at floor 0
+Closing elevator 0 at floor 0
+Moving elevator 0 up from 0
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 up from 1
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 up from 2
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 up from 3
+Opening elevator 0 at floor 4
+Closing elevator 0 at floor 4
+Moving elevator 0 down from 4
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 down from 3
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 down from 1
+Opening elevator 0 at floor 0
+Closing elevator 0 at floor 0
+Moving elevator 0 up from 0
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 up from 1
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 up from 2
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 up from 3
+Opening elevator 0 at floor 4
+Closing elevator 0 at floor 4
+Moving elevator 0 down from 4
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 down from 3
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 down from 1
+Opening elevator 0 at floor 0
+Closing elevator 0 at floor 0
+Moving elevator 0 up from 0
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 up from 1
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 up from 2
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 up from 3
+Opening elevator 0 at floor 4
+Closing elevator 0 at floor 4
+Moving elevator 0 down from 4
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 down from 3
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 down from 1
+Opening elevator 0 at floor 0
+Closing elevator 0 at floor 0
+Moving elevator 0 up from 0
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 up from 1
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 up from 2
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 up from 3
+Opening elevator 0 at floor 4
+Closing elevator 0 at floor 4
+Moving elevator 0 down from 4
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 down from 3
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 down from 1
+Opening elevator 0 at floor 0
+Closing elevator 0 at floor 0
+Moving elevator 0 up from 0
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 up from 1
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 up from 2
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 up from 3
+Opening elevator 0 at floor 4
+Closing elevator 0 at floor 4
+Moving elevator 0 down from 4
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 down from 3
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 down from 1
+Opening elevator 0 at floor 0
+Closing elevator 0 at floor 0
+Moving elevator 0 up from 0
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+Moving elevator 0 up from 1
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 up from 2
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 up from 3
+Opening elevator 0 at floor 4
+Closing elevator 0 at floor 4
+Moving elevator 0 down from 4
+Opening elevator 0 at floor 3
+Closing elevator 0 at floor 3
+Moving elevator 0 down from 3
+Opening elevator 0 at floor 2
+Closing elevator 0 at floor 2
+Moving elevator 0 down from 2
+Opening elevator 0 at floor 1
+Closing elevator 0 at floor 1
+All 10 passengers finished their 1 trips each.
+Total time elapsed: 10821 ms, 1082 slots
+Mean time: 4910.70 max: 10716.00

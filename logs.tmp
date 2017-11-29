@@ -1,0 +1,210 @@
+Starting passenger 0
+Starting passenger 2
+Starting passenger 1
+Starting passenger 3
+Starting passenger 4
+Starting passenger 5
+Starting passenger 6
+Starting passenger 7
+Passenger 0 requesting 1->0
+Starting passenger 8
+Passenger 2 requesting 1->1
+Starting passenger 9
+Passenger 1 requesting 1->1
+Starting passenger 10
+Starting passenger 11
+Passenger 3 requesting 0->0
+Starting passenger 12
+Starting passenger 13
+Passenger 4 requesting 1->1
+Starting passenger 14
+Passenger 5 requesting 0->1
+Starting passenger 15
+Passenger 6 requesting 0->1
+Starting passenger 16
+Passenger 7 requesting 1->0
+Starting passenger 17
+Starting passenger 18
+Passenger 8 requesting 0->0
+Starting passenger 19
+Starting passenger 20
+Passenger 9 requesting 0->0
+Starting passenger 21
+Starting passenger 22
+Passenger 10 requesting 1->0
+Starting passenger 23
+Passenger 11 requesting 1->1
+Starting passenger 24
+Starting passenger 25
+Passenger 12 requesting 0->0
+Passenger 13 requesting 0->1
+Starting passenger 26
+Starting passenger 27
+Starting passenger 28
+Passenger 14 requesting 1->1
+Starting passenger 29
+Starting passenger 30
+Passenger 15 requesting 1->0
+Starting passenger 31
+Starting passenger 32
+Starting passenger 33
+Passenger 16 requesting 0->0
+Starting passenger 34
+Starting passenger 35
+Starting passenger 36
+Passenger 17 requesting 1->1
+Starting passenger 37
+Passenger 18 requesting 1->0
+Starting passenger 38
+Starting passenger 39
+Starting passenger 40
+Passenger 19 requesting 1->0
+Passenger 20 requesting 1->1
+Starting passenger 41
+Starting passenger 42
+Passenger 21 requesting 1->1
+Starting passenger 43
+Starting passenger 44
+Passenger 22 requesting 0->1
+Starting passenger 45
+Passenger 23 requesting 0->0
+Starting passenger 46
+Starting passenger 47
+Passenger 24 requesting 1->0
+Starting passenger 48
+Passenger 25 requesting 1->0
+Starting passenger 49
+Passenger 26 requesting 1->0
+Passenger 27 requesting 0->1
+Passenger 28 requesting 0->0
+Passenger 29 requesting 0->1
+Passenger 30 requesting 1->1
+Passenger 31 requesting 0->1
+Passenger 32 requesting 0->1
+Passenger 33 requesting 0->1
+Passenger 34 requesting 1->1
+Passenger 35 requesting 0->1
+Passenger 36 requesting 0->1
+Passenger 37 requesting 0->1
+Passenger 38 requesting 0->0
+Passenger 39 requesting 1->0
+Passenger 40 requesting 1->0
+Passenger 41 requesting 0->0
+Passenger 42 requesting 0->0
+Passenger 43 requesting 1->1
+Passenger 44 requesting 0->1
+Passenger 45 requesting 0->0
+Passenger 46 requesting 0->0
+Passenger 47 requesting 1->0
+Passenger 48 requesting 0->0
+Passenger 49 requesting 0->1
+Starting elevator 0
+Starting elevator 1
+Starting elevator 2
+Starting elevator 3
+Passenger 41 got on elevator 0 at 0, requested 0
+Passenger 41 got off elevator 0 at 0, requested 0
+Passenger 41 trip duration 668 ms, 66 slots
+Passenger 42 got on elevator 0 at 0, requested 0
+Passenger 42 got off elevator 0 at 0, requested 0
+Passenger 42 trip duration 1126 ms, 112 slots
+Passenger 13 got on elevator 0 at 0, requested 0
+Passenger 13 got off elevator 0 at 1, requested 1
+Passenger 13 trip duration 1369 ms, 136 slots
+Passenger 43 got on elevator 0 at 1, requested 1
+Passenger 43 got off elevator 0 at 1, requested 1
+Passenger 43 trip duration 1825 ms, 182 slots
+Passenger 18 got on elevator 0 at 1, requested 1
+Passenger 18 got off elevator 0 at 0, requested 0
+Passenger 18 trip duration 2063 ms, 206 slots
+Passenger 5 got on elevator 0 at 0, requested 0
+Passenger 5 got off elevator 0 at 1, requested 1
+Passenger 5 trip duration 2304 ms, 230 slots
+Passenger 11 got on elevator 0 at 1, requested 1
+Passenger 11 got off elevator 0 at 1, requested 1
+Passenger 11 trip duration 2760 ms, 276 slots
+Passenger 0 got on elevator 0 at 1, requested 1
+Passenger 0 got off elevator 0 at 0, requested 0
+Passenger 0 trip duration 3001 ms, 300 slots
+Passenger 46 got on elevator 0 at 0, requested 0
+Passenger 46 got off elevator 0 at 0, requested 0
+Passenger 46 trip duration 3453 ms, 345 slots
+Passenger 6 got on elevator 0 at 0, requested 0
+Passenger 6 got off elevator 0 at 1, requested 1
+Passenger 6 trip duration 3701 ms, 370 slots
+Passenger 4 got on elevator 0 at 1, requested 1
+Passenger 4 got off elevator 0 at 1, requested 1
+Passenger 4 trip duration 4158 ms, 415 slots
+Passenger 19 got on elevator 0 at 1, requested 1
+Passenger 19 got off elevator 0 at 0, requested 0
+Passenger 19 trip duration 4398 ms, 439 slots
+Passenger 9 got on elevator 0 at 0, requested 0
+Passenger 9 got off elevator 0 at 0, requested 0
+Passenger 9 trip duration 4857 ms, 485 slots
+Passenger 35 got on elevator 0 at 0, requested 0
+Passenger 35 got off elevator 0 at 1, requested 1
+Passenger 35 trip duration 5093 ms, 509 slots
+Passenger 24 got on elevator 0 at 1, requested 1
+Passenger 24 got off elevator 0 at 0, requested 0
+Passenger 24 trip duration 5339 ms, 533 slots
+Passenger 3 got on elevator 0 at 0, requested 0
+Passenger 3 got off elevator 0 at 0, requested 0
+Passenger 3 trip duration 5795 ms, 579 slots
+Passenger 36 got on elevator 0 at 0, requested 0
+Passenger 36 got off elevator 0 at 1, requested 1
+Passenger 36 trip duration 6031 ms, 603 slots
+Passenger 25 got on elevator 0 at 1, requested 1
+Passenger 25 got off elevator 0 at 0, requested 0
+Passenger 25 trip duration 6267 ms, 626 slots
+Passenger 38 got on elevator 0 at 0, requested 0
+Passenger 38 got off elevator 0 at 0, requested 0
+Passenger 38 trip duration 6722 ms, 672 slots
+Passenger 27 got on elevator 0 at 0, requested 0
+Passenger 27 got off elevator 0 at 1, requested 1
+Passenger 27 trip duration 6963 ms, 696 slots
+Passenger 7 got on elevator 0 at 1, requested 1
+Passenger 7 got off elevator 0 at 0, requested 0
+Passenger 7 trip duration 7200 ms, 720 slots
+Passenger 48 got on elevator 0 at 0, requested 0
+Passenger 48 got off elevator 0 at 0, requested 0
+Passenger 48 trip duration 7663 ms, 766 slots
+Passenger 49 got on elevator 0 at 0, requested 0
+Passenger 49 got off elevator 0 at 1, requested 1
+Passenger 49 trip duration 7904 ms, 790 slots
+Passenger 34 got on elevator 0 at 1, requested 1
+Passenger 34 got off elevator 0 at 1, requested 1
+Passenger 34 trip duration 8359 ms, 835 slots
+Passenger 14 got on elevator 0 at 1, requested 1
+Passenger 14 got off elevator 0 at 1, requested 1
+Passenger 14 trip duration 8819 ms, 881 slots
+Passenger 1 got on elevator 0 at 1, requested 1
+Passenger 1 got off elevator 0 at 1, requested 1
+Passenger 1 trip duration 9272 ms, 927 slots
+Passenger 20 got on elevator 0 at 1, requested 1
+Passenger 20 got off elevator 0 at 1, requested 1
+Passenger 20 trip duration 9734 ms, 973 slots
+Passenger 2 got on elevator 0 at 1, requested 1
+Passenger 2 got off elevator 0 at 1, requested 1
+Passenger 2 trip duration 10191 ms, 1019 slots
+Passenger 15 got on elevator 0 at 1, requested 1
+Passenger 15 got off elevator 0 at 0, requested 0
+Passenger 15 trip duration 10432 ms, 1043 slots
+Passenger 26 got on elevator 0 at 1, requested 1
+Passenger 26 got off elevator 0 at 0, requested 0
+Passenger 26 trip duration 10885 ms, 1088 slots
+Passenger 29 got on elevator 0 at 0, requested 0
+Passenger 29 got off elevator 0 at 1, requested 1
+Passenger 29 trip duration 11124 ms, 1112 slots
+Passenger 45 got on elevator 0 at 0, requested 0
+Passenger 45 got off elevator 0 at 0, requested 0
+Passenger 45 trip duration 11793 ms, 1179 slots
+Passenger 47 got on elevator 0 at 1, requested 1
+Passenger 47 got off elevator 0 at 0, requested 0
+Passenger 47 trip duration 12245 ms, 1224 slots
+Passenger 30 got on elevator 0 at 1, requested 1
+Passenger 30 got off elevator 0 at 1, requested 1
+Passenger 30 trip duration 12916 ms, 1291 slots
+Passenger 31 got on elevator 0 at 0, requested 0
+Passenger 31 got off elevator 0 at 1, requested 1
+Passenger 31 trip duration 13369 ms, 1336 slots
+Passenger 17 got on elevator 0 at 1, requested 1
